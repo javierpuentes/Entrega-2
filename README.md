@@ -2,12 +2,12 @@
 Pagina descriptiva en rails
 
 ## Paginas:
-** inicio**  
+** inicio **  
 
-** about**  
+** about **  
 
-** servicios**  
+** servicios **  
 
-** contactato**  
+** contactato **  
 
-** valores**  
+** valores **  
